@@ -73,9 +73,6 @@ html{
     margin-top: 8px;
     color: rgb(75, 75, 82);
 }
-.fa-briefcase:before {
-    margin-right: 8px;
-}
 .intro-user-right__social{
     display: inline-flex;
     font-size: 1rem;
