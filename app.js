@@ -14,7 +14,7 @@ const progressBars = $$(".container-skills-progress-bar");
 
 const optionElements = $$(".option-item");
 const extendElements = $$(".extend");
-console.error("Đặng Minh Quân");
+console.error("Hứa Minh Hoàng");
 
 optionElements.forEach((option, index) => {
   const extendElement = extendElements[index];
