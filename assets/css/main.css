@@ -128,22 +128,22 @@ html {
   background-color: #3b5999;
 }
 
-#tooltip-icon.tiktok:hover,
-.intro-user-right__social-icon.tiktok:hover .tooltip,
-.intro-user-right__social-icon.tiktok:hover .tooltip::before {
-  background-color: rgb(32, 1, 32);
+#tooltip-icon.Messenger:hover,
+.intro-user-right__social-icon.Messenger:hover .tooltip,
+.intro-user-right__social-icon.Messenger:hover .tooltip::before {
+  background-color: rgb(86, 150, 214);
 }
 
-#tooltip-icon.instagram:hover,
-.intro-user-right__social-icon.instagram:hover .tooltip,
-.intro-user-right__social-icon.instagram:hover .tooltip::before {
-  background-color: #e1306c;
+#tooltip-icon.Phone:hover,
+.intro-user-right__social-icon.Phone:hover .tooltip,
+.intro-user-right__social-icon.Phone:hover .tooltip::before {
+  background-color: #30e15c;
 }
 
-#tooltip-icon.github:hover,
-.intro-user-right__social-icon.github:hover .tooltip,
-.intro-user-right__social-icon.github:hover .tooltip::before {
-  background-color: #333;
+#tooltip-icon.Zalo:hover,
+.intro-user-right__social-icon.Zalo:hover .tooltip,
+.intro-user-right__social-icon.Zalo:hover .tooltip::before {
+  background-color: rgb(90, 195, 230);
 }
 
 .tooltip::before {
